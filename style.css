@@ -1,0 +1,13 @@
+
+table,th, td {
+border: 1px solid black;
+}
+
+td{
+	padding: 15px;
+}
+
+.bold{
+	font-weight: bold;
+	font-size: 1.3em;
+}
